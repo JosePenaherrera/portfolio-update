@@ -32,7 +32,7 @@ a:hover {
 
 
 /**********************************
-SECTION STYLES
+NAVIGATION STYLES
 ***********************************/
 
 .main-nav {
@@ -67,6 +67,12 @@ SECTION STYLES
   color: #50d2c2;
 }
 
+
+
+/**********************************
+HEADING STYLES
+***********************************/
+
 header {
   text-align: center;
   background: url('images/washington-dc.jpg') no-repeat top center;
@@ -99,7 +105,13 @@ header .profile-image:hover {
 .location {
   background-color: rgba(80, 210, 194, .6);
   color: #fff;
-} 
+}
+
+
+
+/**********************************
+HOMEPAGE STYLES
+***********************************/
 
 .card {
   margin: 30px;
@@ -124,6 +136,26 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #50d2c2;
 }
+
+
+
+/**********************************
+EXPERIENCE STYLES
+***********************************/
+
+.experience {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 91.6666667%;
+  text-align: left;
+  background: #fff;
+  border-bottom: 2px solid #ccc;
+}
+
+
+/**********************************
+FOOTER STYLES
+***********************************/
 
 footer {
   width: 100%;
