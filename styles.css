@@ -152,6 +152,13 @@ EXPERIENCE STYLES
   border-bottom: 2px solid #ccc;
 }
 
+.homes-photo {
+  display: block;
+  max-width: 250px;
+  margin: 0 auto 30px;
+}
+
+
 
 /**********************************
 FOOTER STYLES
@@ -205,6 +212,12 @@ STYLES FOR LARGER SCREENS
   main p {
     line-height: 1.6em;
   }
+
+  .homes-photo {
+  float: left;
+  max-width: 400px;
+  margin: 0 5% 20px 0;
+}
 
   footer {
     font-size: 1.3em;
